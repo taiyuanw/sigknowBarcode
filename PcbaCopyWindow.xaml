@@ -1,0 +1,5 @@
+﻿<Window x:Class="SigknowBarcode.PcbaCopyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PCBA 條碼複製" Height="290" Width="352">
+</Window>

@@ -1,0 +1,6 @@
+﻿<Window x:Class="SigknowBarcode.PackagingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="包裝" Height="300" Width="300">
+
+</Window>
