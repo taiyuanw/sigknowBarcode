@@ -35,7 +35,7 @@ namespace SigknowBarcode
             //this.Content = myDockPanel;
             this.Content = myDockPanel;
             this.Width = 400;
-            this.Height = 1000;
+            this.Height = 600;
             this.Background = Brushes.White;
         }
         private void DisplayCommands()
